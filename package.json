@@ -1,0 +1,18 @@
+{
+  "name": "parse-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "ts-node": "^8.8.2",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "stylis": "^3.5.4"
+  }
+}
